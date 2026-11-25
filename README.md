@@ -6,15 +6,15 @@
       <img src="https://media.giphy.com/media/qgQUGG4db35ZO/giphy.gif" alt="Coder GIF" width="100%">
     </td>
     <td width="65%">
-      <h1>Hey there 👋 I'm Your Name.</h1>
-      <p>I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.</p>
+    <h1>Hey there 👋 I'm Tien Thanh.</h1>
+      <p>I'm a computer science student passionate about technology and Artificial Intelligence. My main focus is researching AI Agent systems and exploring           how to maximize their capabilities to solve complex problems.</p>
 
 <h3>👨‍💻 About Me</h3>
 <ul>
-<li>🧐 Exploring new technologies and developing software solutions.</li>
-<li>🎓 Studying Computer Science at Your University.</li>
-<li>💻 Currently learning frontend web development.</li>
-<li>🧑‍🤝‍🧑 Looking for a Software Development Internship.</li>
+<li>🧐 Researching advanced AI technologies, particularly AI agents and agentic workflows.</li>
+<li>🎓 Studying Computer Science at Ho Chi Minh City University of Technology - Nation University (HCMUT-VNU).</li>
+<li>💻 Currently building RAG pipelines, machine learning models, and intelligent software.</li>
+<li>🎯 Aspiring AI Engineer seeking opportunities to build impactful AI systems.</li>
 </ul>
     </td>
   </tr>
