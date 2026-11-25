@@ -8,14 +8,14 @@
     <td width="65%">
       <h1>Hey there 👋 I'm Your Name.</h1>
       <p>I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.</p>
-      
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🧐 Exploring new technologies and developing software solutions.</li>
-        <li>🎓 Studying Computer Science at Your University.</li>
-        <li>💻 Currently learning frontend web development.</li>
-        <li>🧑‍🤝‍🧑 Looking for a Software Development Internship.</li>
-      </ul>
+
+<h3>👨‍💻 About Me</h3>
+<ul>
+<li>🧐 Exploring new technologies and developing software solutions.</li>
+<li>🎓 Studying Computer Science at Your University.</li>
+<li>💻 Currently learning frontend web development.</li>
+<li>🧑‍🤝‍🧑 Looking for a Software Development Internship.</li>
+</ul>
     </td>
   </tr>
 </table>
@@ -34,6 +34,6 @@
 ## 🔮 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=synthwave" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thanhteddyyy&show_icons=true&theme=synthwave" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhteddyyy&layout=compact&theme=synthwave" width="48%" />
 </p>
